@@ -1,3 +1,3 @@
 def oxford_comma(array)
-reverse_array.to_sentence
+fruit.insert(-2, "and")
 end
